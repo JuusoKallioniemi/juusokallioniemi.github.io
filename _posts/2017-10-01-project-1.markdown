@@ -1,0 +1,12 @@
+---
+title: Kaira
+layout: default
+modal-id: 1
+date: 2017-10-01
+img: kaira_modal.png
+alt: Kaira is a tool for data extraction
+project-date: October 2017
+category: Software Development
+description: <a href="https://github.com/Learning-from-our-past/kaira-core">Kaira</a> is a tool used to extract data from text that has been produced by scanning books and parsing them with an OCR tool. The data is extracted using both natural language processing techniques and simple regular expressions. After extraction, the .json files kaira produces are used to populate a PostgreSQL database that provides researchers on the project access to the data. I am working on this project as an employee of the <a href="https://www.helsinki.fi/fi">University of Helsinki</a> in the <a href="https://tuhat.helsinki.fi/portal/fi/projects/learning-from-our-p(17e2a1c3-f04b-4553-a2e8-6fb8f8fa9fbf).html">Learning from our Past</a> project.
+
+---

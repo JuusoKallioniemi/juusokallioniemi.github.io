@@ -1,0 +1,13 @@
+---
+title: Kelkka
+layout: default
+modal-id: 3
+date: 2017-05-01
+img: kelkka_modal.png
+alt: Kelkka is a sledding game in a wintery landscape
+project-date: May 2015
+client: Start Bootstrap
+category: Game Development
+description: I was part of a project called <a href="https://github.com/jkallioniemi/kelkka-unity-game">Kelkka</a>, as the project's sole programmer, where I worked together with graphic designers and sound artists in a four person team. Over the course of a month, while studying game development, we made a game in which the player races through a snowy landscape on a sled, trying to reach the goal in as little time as possible, while passing through checkpoints. This project was made in Unity using C#. The online high scores were made using PHP and SQLite. The source code for the game is available on <a href="https://github.com/jkallioniemi/kelkka-unity-game">Github</a>.
+
+---

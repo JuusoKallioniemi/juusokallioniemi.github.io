@@ -1,0 +1,13 @@
+---
+title: Tuorla Stars
+layout: default
+modal-id: 2
+date: 2017-05-01
+img: tstars_modal.png
+alt: Tuorla Stars is an educational mobile game
+project-date: May 2017
+client: Start Bootstrap
+category: Game Development
+description: <a href="https://play.google.com/store/apps/details?id=com.ElusiveElk.Planetaario">Tuorla Stars</a> is a project I worked on as the only programmer, and most things related to Unity were my responsibility as well. I collaborated on this project with graphic designers, a sound designer and content curator and a client (<a href="http://www.astro.utu.fi/">Tuorla Observatory</a>). We were a four person team and made this game over a span of five months. The game teachers the user about astronomy and the surroundings of the observatory, the buildings in the area. The main view of the game is a map, which uses GPS to accurately display the player's location. The player's location is also transmitted to other players in the area, and they can see each other on the map. Minigames in the app include a quiz, a telescope building game and a simple solar system simulation. The game was made using Unity and C#. The server for location sharing was made using Node.js and MongoDB. The game is available on the <a href="https://play.google.com/store/apps/details?id=com.ElusiveElk.Planetaario">Google Play Store</a>.
+
+---
