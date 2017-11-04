@@ -1,8 +1,8 @@
 # Site settings
 title: Juuso Kallioniemi
 email: jkallioniemi@gmail.com
-url: https://juusokallioniemi.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+url: https://juusokallioniemi.com
+description: "Juuso Kallioniemi, software developer, game developer. Homepage of."
 skills: "Software Developer - Game Developer"
 meta_author: Juuso Kallioniemi
 
