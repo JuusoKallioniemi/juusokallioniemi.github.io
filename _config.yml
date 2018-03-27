@@ -39,9 +39,9 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
-    url: http://github.com/JuusoKallioniemi
+    url: http://github.com/jkallioniemi
   - title: linkedin
-    url: https://www.linkedin.com/in/juuso-kallioniemi-1b1999138
+    url: https://www.linkedin.com/in/juusokallioniemi
 
 # Postal address (add as many lines as necessary)
 address:
